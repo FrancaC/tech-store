@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    flex-flow: column  nowrap;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+.container i{
+    font-size: 130px;
+    padding: 20px;
+    color: rgb(210, 106, 106);
+}
+.container h2{
+    font-size: 42px;
+    color: rgb(210, 106, 106);
+}
